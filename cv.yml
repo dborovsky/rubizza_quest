@@ -1,0 +1,15 @@
+my_cv:
+    name:
+        first_name: Dmitriy
+        last_name: Borowskiy
+    email: d.borowskij@gmail.com
+    location: Gomel
+    position: Ruby developer
+    about_me: C#/.Net/.Net Core, Windows server, Linux, Azure, MS SQL Server, SQL/T-SQL
+              PostgreSQL 9.x, MySQL5, XML, REST API, Javascrip, Angular, JQuery, Json, 
+              Git, Asp.Net MVC/Core, Agile, SCRUM, Accounting, Finance analysis
+    foregin_language:
+        english: intermediate
+    experience: 2
+    education: Gomel state university(Software developer)               
+    
